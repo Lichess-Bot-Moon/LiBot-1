@@ -71,7 +71,7 @@ os.system("python3 heroku_challenges.py -u")
 
 __CAUTION:__ Be careful with matchmaking mode, lichess will rate limit you if you let it run for too long!
 
-## Greetings Chat ** 
+## Greetings Chat  
 __In other repo which have chat of greeting dont have matchamking but this repo have chat of greeting and matchmaking__
 For chat there is a file name gami_api.py,  there is a line start with self.api.send_chat_message(self.game_id, "player",
 and written the chats for greeting. Other you will understand by seeing that file.
